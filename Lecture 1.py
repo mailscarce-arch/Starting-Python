@@ -1,46 +1,45 @@
-# print("Hello World")
-# print("My Name Is Sam", "Age 20")
-# print(25-35)
+print("Hello World")
+print("My Name Is Sam", "Age 20")
+print(25-35)
 
-# name = "Sam"    
-# age= 29
-# price= 26.99
+name = "Sam"    
+age= 29
+price= 26.99
 
-# print(type(name))
-# print(type(age))
-# print(type(price))
+print(type(name))
+print(type(age))
+print(type(price))
 
-# # Boolean
+Boolean
 
-# age= 23
-# old= False
-# a= None
+age= 23
+old= False
+a= None
 
-# print(type(old))
-# print(type(a))
-
-# #Arithmetic Operations
-
-# # a = 1000
-# # b = 550
-
-# # print(a + b)
-# # print(a- b)
-# # print(a * b)
-# # print(a / b)
-# # print(a % b)  #Reminder
-# # print(a ** b)  #a^b
+print(type(old))
+print(type(a))
 
 
-# #relational Operators
+#Arithmetic Operations
+a = 1000
+b = 550
 
-# c = 5
-# d = 10
+print(a + b)
+print(a- b)
+print(a * b)
+print(a / b)
+print(a % b)  #Reminder
+print(a ** b)  #a^b
 
-# print(c==d) #False
-# print(c!=d) #True   
-# print(c>=d)
-# print(c<=d)
+
+#relational Operators
+c = 5
+d = 10
+
+print(c==d) #False
+print(c!=d) #True   
+print(c>=d)
+print(c<=d)
 
 # # Assignments Operators
 
